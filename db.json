@@ -1,0 +1,40 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "username": "ashish123",
+      "age": 20,
+      "address": "Noida",
+      "department": "tester",
+      "salary": 60000,
+      "maritalstate": false
+    },
+    {
+      "username": "Rahul",
+      "age": 40,
+      "address": "Chennai",
+      "department": "",
+      "salary": 40000,
+      "maritalstate": "on",
+      "id": 2
+    },
+    {
+      "username": "Mohan",
+      "age": 25,
+      "address": "Banglore",
+      "department": "Designer",
+      "salary": 30000,
+      "maritalstate": "on",
+      "id": 3
+    },
+    {
+      "username": "Raj",
+      "age": 20,
+      "address": "Hyderabad",
+      "department": "Developer",
+      "salary": 20000,
+      "maritalstate": "on",
+      "id": 4
+    }
+  ]
+}
